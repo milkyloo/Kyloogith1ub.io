@@ -1,5 +1,4 @@
 # Kyloogith1ub.io
-<!DOCTYPE html>
 <html>
 <head>
     <title>Redirect Button</title>
